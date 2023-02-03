@@ -1,2 +1,2 @@
-FROM gcr.io/knative-releases/knative.dev/eventing/cmd/controller@sha256:a7acb44c2b9a9604c3acb62f7b7f8bb235e3c4e6d366a5cb3dc029210351a01b
+FROM gcr.io/knative-releases/knative-kafka-broker-receiver:v1.8.6
 MAINTAINER Q
